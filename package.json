@@ -1,0 +1,26 @@
+{
+  "name": "pateoas",
+  "version": "0.0.1",
+  "description": "Prompt as Engine of AI State - A revolutionary AI state management paradigm",
+  "main": "index.js",
+  "keywords": [
+    "ai",
+    "prompt",
+    "state-management", 
+    "pateoas",
+    "artificial-intelligence",
+    "conversation",
+    "memory",
+    "deepractice"
+  ],
+  "author": "Deepractice Team",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Deepractice/PATEOAS.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Deepractice/PATEOAS/issues"
+  },
+  "homepage": "https://github.com/Deepractice/PATEOAS#readme"
+} 
