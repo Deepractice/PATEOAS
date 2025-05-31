@@ -1,8 +1,11 @@
 {
   "name": "pateoas",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Prompt as Engine of AI State - A revolutionary AI state management paradigm",
   "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "keywords": [
     "ai",
     "prompt",
@@ -11,7 +14,11 @@
     "artificial-intelligence",
     "conversation",
     "memory",
-    "deepractice"
+    "deepractice",
+    "chatbot",
+    "llm",
+    "gpt",
+    "claude"
   ],
   "author": "Deepractice Team",
   "license": "MIT",
@@ -22,5 +29,16 @@
   "bugs": {
     "url": "https://github.com/Deepractice/PATEOAS/issues"
   },
-  "homepage": "https://github.com/Deepractice/PATEOAS#readme"
+  "homepage": "https://github.com/Deepractice/PATEOAS#readme",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "files": [
+    "index.js",
+    "README.md",
+    "README_EN.md", 
+    "whitepaper.md",
+    "whitepaper_en.md",
+    "LICENSE"
+  ]
 } 
